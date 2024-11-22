@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hallo Perkenalkan Saya, Muhammad Dhias Habibi<br><br>About Me:<br>Hallo guys, Perkenalkan saya Dhias, saya adalah seorang Mahasiswa Sistem Informasi yang berasal dari kampus<br>yang ada di Sumatera Selatan, Palembang, Awal mula saya menyukai dunia programming ini ketika saya pertama kali<br>menggunakan ponsel pintar (smartphone), dan ketika itu saya memainkan sebuah game, ketika itu saya berfikir untuk membuat game<br>tetapi karena waktu itu saya belum tahu bagaimana dunia programming jadi saya urungkan niat saya tersebut.<br><br>Dan akhirnya ketika saya duduk di bangku sekolah menengah pertama, saya mulai belajar otodidak tentang dunia pemrograman web<br>saya belajar beberapa bahasa web yang sering di gunakan pada masa itu. Dan sampai saya masuk Kuliah sekarang ini<br>saya melanjutkan kuliah di Jurusan Sistem Informasi (SI), dan saya semakin tertarik untuk mendalami dunia pemrograman ini.<br>Dan akhirnya sekarang saya sudah bisa menguasai beberapa bahasa pemrograman web maupun mobile, dan saya tetap belajar<br>hinggah saya bisa memantaskan diri saya sebagai Fullstack Developer.<br><br>Melalui cerita singkat ini, saya ingin menunnjukan hasil-hasil project yang saya kerjakan dari hasil pembelajaran saya<br>di kampus maupun otodidak, semoga dapat menginspirasi teman-teman yang ingin menjadi programmer juga, motivasi dari saya yaitu,<br>jangan mudah menyerah, teruslah berusaha untuk belajar, dan tidak ada kata terlambat untuk belajar, karena perkembangan dunian programming ini sangat cepat,<br>tidak ada kata menunggu, mereka akan terus berkembang mengikuti zaman.
 
-<!--
-**DhiasCoder/DhiasCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/s3EpvHWJZa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhiasmhamd) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DhiasCoder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DhiasCoder&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhiasCoder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DhiasCoder&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DhiasCoder&icon=2&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
